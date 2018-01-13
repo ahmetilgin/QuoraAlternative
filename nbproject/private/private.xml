@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/login.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>7</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/css/bootstrap.min.css</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/css/bootstrap-theme.css</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/css/bootstrap.css</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/profile.jsp</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/home.jsp</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/styles/main.css</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/login.jsp</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/src/java/com/questionable/utility/PostDB.java</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/myposts.jsp</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/src/java/com/questionable/utility/UserDB.java</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/header.jsp</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/about.jsp</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/web/addpost.jsp</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/src/java/com/questionable/controllers/PostController.java</file>
+            <file>file:/C:/Users/ahmet/Desktop/Quora/QuoraAlternative_%20-%20KopyaSon/src/java/com/questionable/controllers/UserController.java</file>
+        </group>
+    </open-files>
+</project-private>
